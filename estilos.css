@@ -1,0 +1,59 @@
+body{
+	margin: 150px;
+	background-color: #A8A4A4;	
+	}
+
+.app{
+	background-color: white;
+	margin: 0 auto;	
+	width: 300px;
+	padding-bottom: 30px;
+}
+.menu{
+	background-color: red;
+	color: white;
+	font-size: 20px;
+	padding: 8px;
+
+}
+.menu i {
+	margin-right: 10px;
+
+}
+.menu i:hover{
+	cursor: pointer;
+}
+.mov-user{
+	float: right;
+}
+.row{
+	width: 100%;
+	overflow: hidden;
+	padding-top: 15px;
+}
+.col, .col-2{
+	float: left;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+	padding: 5px;
+}
+.col-2{
+	display: block;
+    width: 130px;
+}
+.btn{		
+	height:40px;
+	width: 40px;	
+}
+.btn:hover{
+	cursor: pointer;
+}
+.btn-number{
+	background-color: red;
+	color: white;
+}
+.col:hover{
+	cursor: pointer;
+}
+
+
